@@ -1,4 +1,4 @@
-#Content Based Movie Recommendation Engine
+# Content Based Movie Recommendation Engine
 ![img1](https://www.vshsolutions.com/wp-content/uploads/2020/02/recommender-system-for-movie-recommendation.jpg)
 One popular technique of recommendation/recommender systems is content-based filtering. Content here refers to the content or attributes of the products you like. So, the idea in content-based filtering is to tag products using certain keywords, understand what the user likes, look up those keywords in the database and recommend different products with the same attributes.
 
